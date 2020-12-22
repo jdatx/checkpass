@@ -1,0 +1,5 @@
+---
+site_name: Check Pass
+nav:
+    - Home: index.md
+theme: readthedocs
