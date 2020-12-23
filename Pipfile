@@ -15,9 +15,11 @@ mkdocs-material = "*"
 pytest-cov = "*"
 yamllint = "*"
 autopep8 = "*"
+password-validation = "*"
 
 [packages]
 invoke = "*"
+password-validation = "*"
 
 [requires]
 python_version = "3.8"

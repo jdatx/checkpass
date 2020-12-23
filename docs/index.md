@@ -27,5 +27,5 @@ QA.
 Test.
 ```bash
 ~$ pytest --capture='tee-sys'
-~$ pytest {} ./tests/ --cov=.
+~$ pytest --cov=. ./tests/
 ```
